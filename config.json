@@ -1,0 +1,9 @@
+{
+  "serial_port": "COM3",
+  "baud_rate": 9600,
+  "interval_seconds": 1,
+  "moving_average_window": 5,
+  "dark_threshold": 100,
+  "bright_threshold": 900,
+  "sudden_change_threshold": 200
+}
