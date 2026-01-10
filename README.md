@@ -14,7 +14,7 @@
 
 # Свързване
 - 5V ----- LDR ----- A0 ----- 10kΩ ----- GND
-
+![scheme.jpg](scheme.jpg)
 # Софтуер
 - Python (PyCharm)
 - Arduino IDE
